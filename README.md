@@ -21,10 +21,12 @@ As a console player on PlayStation i started width the 5 Nm and upgraded later t
 
 #### Fixing loose shaft
 
-If you have the loose shaft clamp problem you have to tighten the clamp screw with 15 Nm torque.  
+If you have the loose shaft clamp problem you have to tighten the clamp screw with **15 Nm torque**.  
 The best is to buy a torque wrench. Doing this with a simple allen key is in my opinion quiet hard depending to the length it has.
 
 YT Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
+
+![loose-shaft.avif](images/shaft/loose-shaft.avif)
 
 <video src="videos/shaft/dd-shaft-clamp-torque.m4v" width="320" height="240" controls></video>
 
