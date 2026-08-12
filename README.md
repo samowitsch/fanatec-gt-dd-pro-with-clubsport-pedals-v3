@@ -32,7 +32,7 @@ YT Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
 
 ## ClubSport Shifter SQ V1.5
 
-This is a rock solid full metal shifter. But my one has the mis-shifting problem. I followed different solutions i found on WWW.
+This is a rock solid full metal shifter. But my one has the mis-shifting problem. I followed different solutions i found on internet.
 But they do not last for long. My final solution you can see in the following photos. I placed two layers of electrical tape onto the pcb
 near the mounting holes. Since then i had never the mis-shifting problem.
 
