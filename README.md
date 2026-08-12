@@ -85,8 +85,6 @@ The following table reflects my experiences.
 | Gran Turismo 7 (PS5)             |       🔵       |        -        |
 | WRC Generations (XSX)            |       🟢       |        -        |
 
-#### CSP v3
-
 ## Wheelbase modes
 
 ![mode-ps-blue.png](images/modes/mode-ps-blue.png)
