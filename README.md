@@ -12,7 +12,7 @@ As a console player on PlayStation i started width the 5 Nm and upgraded later t
 
 * As a console player, you have no way to upgrade the firmware of wheelbase or other components. PC is mandatory!
 * The shaft of my model kept coming loose (I guess I got a lemon). See fix below - Fixing loose shaft.
-* The QR1 sometimes has a bit of play. For this reason, I always use the screw to prevent that.
+* The QR1 sometimes has a bit of play. For this reason, I always use the screw to prevent that. Thats the opposite of quick release ;o)
 * The Gran Turismo steering wheel has a cheap rubber coating. Over time, it feels sticky and, in places, starts to
   crumble.
 * Latest firmware update with Fullforce makes problems for me at the time of writing
