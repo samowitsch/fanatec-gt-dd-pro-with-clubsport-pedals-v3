@@ -49,7 +49,9 @@ After some time the internal handbrake screw got loose with a loude noise. I cou
 ### Gear upshift not working
 
 Sadly i had the problem of a not working gear upshift. There is not much you can do here. Getting spare
-parts (this little tiny spring metal plates) is hard and expensive. Luckily fanatec send me a replacement WRC wheel!
+parts (this little tiny spring metal dome plates) is hard and expensive. Luckily fanatec send me a replacement WRC wheel!
+
+![metal-plate.webp](images/wheels/wrc/metal-plate.webp)
 
 * https://www.youtube.com/watch?v=-aBbDJWOFu8
 * https://www.digikey.de/de/products/detail/snaptron/GX12900/20376485
