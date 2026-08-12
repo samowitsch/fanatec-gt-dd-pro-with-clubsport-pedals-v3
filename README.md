@@ -37,7 +37,6 @@ near the mounting holes. Since then i had never the mis-shifting problem.
 ![mode-ps-blue.png](images/shifter/IMG_6200.JPG)
 ![mode-ps-blue.png](images/shifter/IMG_6201.JPG)
 
-
 ## ClubSport Handbrake V1.5
 
 Looking back, I wouldn't buy this handbrake again. It has even been referred to as a cucumber slicer ;o)
@@ -50,13 +49,11 @@ After some time the internal handbrake screw got loose with a loude noise. I cou
 Sadly i had the problem of a not working gear upshift. There is not much you can do here. Getting spare
 parts (this little tiny spring metal plates) is hard and expensive. Luckily fanatec send me a replacement WRC wheel!
 
+* https://www.youtube.com/watch?v=-aBbDJWOFu8
 * https://www.digikey.de/de/products/detail/snaptron/GX12900/20376485
 * https://www.snaptron.com/products/standard-domes/gx-series/
 
 <video src="videos/wheels/wrc-wheel-gearshift-not-working.m4v" width="320" height="240" controls></video>
-
-
-https://www.youtube.com/watch?v=-aBbDJWOFu8
 
 ## CS Pedals v3
 
@@ -81,7 +78,6 @@ is FFB it is very week.
 | Forza Motorsport 7 (XSX)         |       🟢       |        -        |
 | Gran Turismo 7 (PS5)             |       🔵       |        -        |
 | WRC Generations (XSX)            |       🟢       |        -        |
-
 
 ## Wheelbase modes
 
