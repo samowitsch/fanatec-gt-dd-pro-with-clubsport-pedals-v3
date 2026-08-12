@@ -2,7 +2,7 @@
 
 > ⚠️ WIP. My summary fanatec experience.
 
-These are my experiences collected over time with this wheel base.
+These are my experiences collected over time beginning from 19.02.2022 with this wheel base.
 
 ## Gran Turismo® DD Pro Wheelbase (Bundle)
 
