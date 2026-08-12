@@ -88,3 +88,11 @@ is FFB it is very week.
 ![mode-pc-orange.png](images/modes/mode-pc-orange.png)
 ![mode-pc-yellow.png](images/modes/mode-pc-yellow.png)
 ![mode-xbox-green.png](images/modes/mode-xbox-green.png)
+
+## My thingiverse designs for Fanatec
+
+* [Fanatec Shifter 120x40 aluminium profile Sim Rig clamp/mount](https://www.thingiverse.com/thing:5336306)
+* [Fanatec Shifter 120x40 aluminium profile Sim Rig clamp/mount V2](https://www.thingiverse.com/thing:5355550)
+* [Fanatec DD Pro power supply PSU holder (mount) 8Nm 80x40 aluminium profile](https://www.thingiverse.com/thing:5337675)
+* [Fanatec knob holder M12x1.5](https://www.thingiverse.com/thing:5344102)
+* [Fanatec clubsport handbrake cable protection](https://www.thingiverse.com/thing:5352348)
