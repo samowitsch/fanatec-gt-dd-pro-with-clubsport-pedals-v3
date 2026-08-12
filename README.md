@@ -65,8 +65,10 @@ At the beginning i had the CSL Pedals (and later upgraded it with a load cell br
 
 ### CSP v3 in game force feedback
 
-Hard to find resources which game supports CSP V3 force feedback. The following table reflects my experiences. If there
-is FFB it is very week.
+Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week.
+The following table reflects my experiences. 
+
+#### CSP v3 connected to wheelbase
 
 | Game (tested Platform)           | Wheelbase Mode | CS V3 Pedal FFB |
 |:---------------------------------|:--------------:|:---------------:|
@@ -82,6 +84,8 @@ is FFB it is very week.
 | Forza Motorsport 7 (XSX)         |       🟢       |        -        |
 | Gran Turismo 7 (PS5)             |       🔵       |        -        |
 | WRC Generations (XSX)            |       🟢       |        -        |
+
+#### CSP v3
 
 ## Wheelbase modes
 
