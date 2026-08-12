@@ -24,9 +24,8 @@ As a console player on PlayStation i started width the 5 Nm and upgraded later t
 If you have the loose shaft clamp problem you have to tighten the clamp screw with 15 Nm torque.  
 The best is to buy a torque wrench. Doing this with a simple allen key is in my opinion quiet hard depending to the length it has.
 
-Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
-
-<video src="videos/shaft/dd-shaft-clamp-torque.m4v" width="320" height="240" controls></video>
+YT Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
+Video in this repo: ![dd-shaft-clamp-torque.m4v](videos/shaft/dd-shaft-clamp-torque.m4v)
 
 ## ClubSport Shifter SQ V1.5
 
