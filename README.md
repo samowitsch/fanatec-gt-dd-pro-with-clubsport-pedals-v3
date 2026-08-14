@@ -100,3 +100,27 @@ The following table reflects my experiences.
 * [Fanatec DD Pro power supply PSU holder (mount) 8Nm 80x40 aluminium profile](https://www.thingiverse.com/thing:5337675)
 * [Fanatec knob holder M12x1.5](https://www.thingiverse.com/thing:5344102)
 * [Fanatec clubsport handbrake cable protection](https://www.thingiverse.com/thing:5352348)
+* [Fanatec ClubSport Pedals V3 Block](www.thingiverse.com/thing:7395715)
+
+## Modding
+
+### Simagic P-HPR Haptic Pedal Reactor
+
+#### P-HPR YT videos
+
+* https://www.youtube.com/watch?v=BnpLW1NoHso
+* https://www.youtube.com/watch?v=b9ShITD0E0k
+
+#### P-HPR reactor mounts
+
+* https://cults3d.com/en/3d-model/tool/fanatec-clubsport-v3-soportes-para-motor-haptico-simagic-impr3dd
+* https://www.printables.com/model/677198-simagic-p-hpr-mount-for-fanatec-clubsport-v3-pedal
+* https://makerworld.com/de/models/2058355-simagic-p-hpr-mount-on-fanatec-clubsport-v3-pedals#profileId-2222102
+* https://www.printables.com/model/679814-clubsport-pedals-v3-haptic-pedal-reactor-mount
+* https://www.printables.com/model/1279181-simagic-haptic-pedal-reactor-p-hpr-bracket-for-fan/related
+* https://www.printables.com/model/976496-fanatec-csl-load-cell-brake-adapter-for-the-simagi
+
+#### Simagic Controll box
+
+* https://www.thingiverse.com/thing:6476832
+* https://www.printables.com/model/1455864-simagic-pedal-board-holder-bracket-p2000-or-haptic
