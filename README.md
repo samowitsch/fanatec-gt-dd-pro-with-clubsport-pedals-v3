@@ -120,7 +120,7 @@ The following table reflects my experiences.
 * https://www.printables.com/model/1279181-simagic-haptic-pedal-reactor-p-hpr-bracket-for-fan/related
 * https://www.printables.com/model/976496-fanatec-csl-load-cell-brake-adapter-for-the-simagi
 
-#### Simagic Controll box
+#### Simagic Control box
 
 * https://www.thingiverse.com/thing:6476832
 * https://www.printables.com/model/1455864-simagic-pedal-board-holder-bracket-p2000-or-haptic
