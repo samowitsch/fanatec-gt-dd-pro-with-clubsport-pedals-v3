@@ -113,6 +113,7 @@ The following table reflects my experiences.
 
 #### P-HPR reactor mounts
 
+* https://3dgo.app/models/makerworld/2058355
 * https://www.etsy.com/de/listing/1629522870/simagic-p-hpr-und-p-hprgt-haptic-pedal
 * https://cults3d.com/en/3d-model/tool/fanatec-clubsport-v3-soportes-para-motor-haptico-simagic-impr3dd
 * https://www.printables.com/model/677198-simagic-p-hpr-mount-for-fanatec-clubsport-v3-pedal
