@@ -100,11 +100,26 @@ The following table reflects my experiences.
 * [Fanatec DD Pro power supply PSU holder (mount) 8Nm 80x40 aluminium profile](https://www.thingiverse.com/thing:5337675)
 * [Fanatec knob holder M12x1.5](https://www.thingiverse.com/thing:5344102)
 * [Fanatec clubsport handbrake cable protection](https://www.thingiverse.com/thing:5352348)
-* [Fanatec ClubSport Pedals V3 Block](www.thingiverse.com/thing:7395715)
+* [Fanatec ClubSport Pedals V3 Block](https://www.thingiverse.com/thing:7395715)
+* [Fanatec ClubSport V3 Pedals block with P-HPR mount](https://www.thingiverse.com/thing:7397377)
 
 ## Modding
 
 ### Simagic P-HPR Haptic Pedal Reactor
+
+#### My P-HPR modding - [Fanatec ClubSport V3 Pedals block with P-HPR mount](https://www.thingiverse.com/thing:7397377)
+
+![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8651.JPG)
+My design fresh out of the printer.
+
+![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8652.JPG)
+Mounting the shaker to the adapter block.
+
+![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8655.JPG)
+Top view
+
+![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8656.JPG)
+View from the side. Here you can see the original Fanatec rumble motors at their original location.
 
 #### P-HPR YT videos
 
