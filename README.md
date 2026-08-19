@@ -1,8 +1,34 @@
 # Fanatec GT DD Pro with Clubsport Pedals v3
 
-> ⚠️ WIP. My summary fanatec experience.
+> ⚠️ WIP. My summary fanatec experience. Feel free to contribute if you like 🤓
 
-These are my experiences collected over time beginning from 19.02.2022 with this wheel base.
+These are my experiences collected over time beginning from 19.02.2022 with this **great wheel base**.
+
+<!-- TOC -->
+
+- [Fanatec GT DD Pro with Clubsport Pedals v3](#fanatec-gt-dd-pro-with-clubsport-pedals-v3)
+  - [Gran Turismo® DD Pro Wheelbase (Bundle)](#gran-turismo-dd-pro-wheelbase-bundle)
+    - [Pain points](#pain-points)
+    - [Fixing loose shaft](#fixing-loose-shaft)
+  - [ClubSport Shifter SQ V1.5](#clubsport-shifter-sq-v15)
+    - [Mis-shifting problem](#mis-shifting-problem)
+  - [ClubSport Handbrake V1.5](#clubsport-handbrake-v15)
+    - [Internal screw gets loose](#internal-screw-gets-loose)
+  - [CSL Elite Steering Wheel WRC](#csl-elite-steering-wheel-wrc)
+    - [Gear upshift not working](#gear-upshift-not-working)
+  - [CS Pedals v3](#cs-pedals-v3)
+    - [CSP v3 and in game pedal force feedback?](#csp-v3-and-in-game-pedal-force-feedback)
+      - [Pedal FFB game list](#pedal-ffb-game-list)
+  - [Wheelbase modes](#wheelbase-modes)
+  - [My thingiverse designs for Fanatec](#my-thingiverse-designs-for-fanatec)
+  - [Modding](#modding)
+    - [Simagic P-HPR Haptic Pedal Reactor](#simagic-p-hpr-haptic-pedal-reactor)
+      - [My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mountt\](https://www.thingiverse.com/thing:7397377)](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mountthttpswwwthingiversecomthing7397377)
+      - [P-HPR YT videos](#p-hpr-yt-videos)
+      - [P-HPR reactor mounts](#p-hpr-reactor-mounts)
+      - [Simagic Control box](#simagic-control-box)
+
+<!-- /TOC -->
 
 ## Gran Turismo® DD Pro Wheelbase (Bundle)
 
@@ -19,10 +45,9 @@ As a console player on PlayStation i started width the 5 Nm and upgraded later t
   * Gran Turismo 7: random sudden in game menu cursor movement
   * Assetto Corsa Rally: The force feedback feels weird or scratchy.
 
-#### Fixing loose shaft
+### Fixing loose shaft
 
-If you have the loose shaft clamp problem you have to tighten the clamp screw with **15 Nm torque**.  
-The best is to buy a torque wrench. Doing this with a simple allen key is in my opinion quiet hard depending to the length it has.
+If you have the loose shaft clamp problem you have to realign the quickrelease and tighten the clamp screw with **15 Nm torque**. The best is to buy a torque wrench. Doing this with a simple allen key is in my opinion quiet hard depending to the length it has.
 
 YT Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
 
@@ -32,24 +57,34 @@ YT Source: https://www.youtube.com/watch?v=q73Kw6knoBQ
 
 ## ClubSport Shifter SQ V1.5
 
-This is a rock solid full metal shifter. But my one has the mis-shifting problem. I followed different solutions i found on internet.
-But they do not last for long. My final solution you can see in the following photos. I placed two layers of electrical tape onto the pcb
-near the mounting holes. Since then i had never the mis-shifting problem.
+This is a rock solid full metal shifter. But my one has the [mis-shifting problem](#mis-shifting-problem). It has also since developed a stripped screw thread on the top. These small screws are somewhat undersized, and you have to be extremely careful with the aluminum threaded holes.
 
-![mode-ps-blue.png](images/shifter/IMG_6200.JPG)
-![mode-ps-blue.png](images/shifter/IMG_6201.JPG)
+### Mis-shifting problem
+
+I followed different solutions i found on internet. But they do not last for long. My final solution you can see in the following photos. I placed two layers of electrical tape onto the pcb near the mounting holes. Since then i had never the mis-shifting problem again.
+
+![IMG_6200.JPG](images/shifter/IMG_6200.JPG)
+![IMG_6201.JPG](images/shifter/IMG_6201.JPG)
 
 ## ClubSport Handbrake V1.5
 
 Looking back, I wouldn't buy this handbrake again. It has even been referred to as a cucumber slicer ;o)
-After some time the internal handbrake screw got loose with a loude noise. I could fix this.
+
+### Internal screw gets loose
+
+After some time the internal handbrake nut got loose with a loude noise. Just open it and screwing it all together.
+
+![IMG_6182.JPG](images/handbrake/IMG_6182.JPG)
+
+There are other reports on the internet regarding potentiometer problems.
 
 ## CSL Elite Steering Wheel WRC
 
+I like it very much. Really gets you in the mood for rallying.
+
 ### Gear upshift not working
 
-Sadly i had the problem of a not working gear upshift. There is not much you can do here. Getting spare
-parts (this little tiny spring metal dome plates) is hard and expensive. Luckily fanatec send me a replacement WRC wheel!
+Sadly i had the problem of a not working gear upshift. There is not much you can do here. Getting spare parts (this little tiny spring metal dome plates) is hard and expensive. Luckily fanatec send me a replacement WRC wheel even out of warranty!
 
 ![metal-plate.webp](images/wheels/wrc/metal-plate.webp)
 
@@ -63,12 +98,12 @@ parts (this little tiny spring metal dome plates) is hard and expensive. Luckily
 
 At the beginning i had the CSL Pedals (and later upgraded it with a load cell break padel). But curiosity drove me to the CS Pedal v3. They are rock solid. Nothing to worry about except the force feedback of break and throttle.
 
-### CSP v3 in game force feedback
+### CSP v3 and in game pedal force feedback?
 
-Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week.
-The following table reflects my experiences. 
+Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week 😢
+The following table reflects my experiences.
 
-#### CSP v3 connected to wheelbase
+#### Pedal FFB game list
 
 | Game (tested Platform)           | Wheelbase Mode | CS V3 Pedal FFB |
 |:---------------------------------|:--------------:|:---------------:|
@@ -107,16 +142,16 @@ The following table reflects my experiences.
 
 ### Simagic P-HPR Haptic Pedal Reactor
 
-#### My P-HPR modding - [Fanatec ClubSport V3 Pedals block with P-HPR mount](https://www.thingiverse.com/thing:7397377)
+#### My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mountt](https://www.thingiverse.com/thing:7397377)
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8651.JPG)
-My design fresh out of the printer.
+My design fresh out of the printer ;o)
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8652.JPG)
-Mounting the shaker to the adapter block.
+Mounting the shaker to the adapter block. Be careful not to damage the screw threads on the shaker. If necessary, it is better to drill out the holes for the four small screws.
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8655.JPG)
-Top view
+Top view break and clutch.
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8656.JPG)
 View from the side. Here you can see the original Fanatec rumble motors at their original location.
