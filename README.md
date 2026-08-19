@@ -100,8 +100,7 @@ At the beginning i had the CSL Pedals (and later upgraded it with a load cell br
 
 ### CSP v3 and in game pedal force feedback?
 
-Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week 😢
-The following table reflects my experiences.
+Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week 😢 See also my [Simagic shaker mod](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mountthttpswwwthingiversecomthing7397377). The following table reflects my experiences.
 
 #### Pedal FFB game list
 
