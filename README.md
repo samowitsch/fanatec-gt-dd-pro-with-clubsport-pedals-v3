@@ -147,7 +147,7 @@ Hard to find resources which game supports CSP V3 force feedback. If there is FF
 My design fresh out of the printer ;o)
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8652.JPG)
-Mounting the shaker to the adapter block. Be careful not to damage the screw threads on the shaker. If necessary, it is better to drill out the holes for the four small screws.
+Mounting the shaker to the adapter block. Be careful not to damage the screw threads on the shaker. If necessary, it is better to drill out the holes of the mounting adapter for the four small screws.
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8655.JPG)
 Top view break and clutch.
