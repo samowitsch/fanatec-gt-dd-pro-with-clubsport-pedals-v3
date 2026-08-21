@@ -23,7 +23,7 @@ These are my experiences collected over time beginning from 19.02.2022 with this
   - [My thingiverse designs for Fanatec](#my-thingiverse-designs-for-fanatec)
   - [Modding](#modding)
     - [Simagic P-HPR Haptic Pedal Reactor](#simagic-p-hpr-haptic-pedal-reactor)
-      - [My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mountt\](https://www.thingiverse.com/thing:7397377)](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mountthttpswwwthingiversecomthing7397377)
+      - [My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mount\](https://www.thingiverse.com/thing:7397377)](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mounthttpswwwthingiversecomthing7397377)
       - [P-HPR YT videos](#p-hpr-yt-videos)
       - [P-HPR reactor mounts](#p-hpr-reactor-mounts)
       - [Simagic Control box](#simagic-control-box)
@@ -142,7 +142,7 @@ Hard to find resources which game supports CSP V3 force feedback. If there is FF
 
 ### Simagic P-HPR Haptic Pedal Reactor
 
-#### My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mountt](https://www.thingiverse.com/thing:7397377)
+#### My P-HPR modding - Fanatec ClubSport V3 Pedals block with P-HPR mount](https://www.thingiverse.com/thing:7397377)
 
 ![mode-xbox-green.png](images/simagic-shaker-p-hpr/IMG_8651.JPG)
 My design fresh out of the printer ;o)
