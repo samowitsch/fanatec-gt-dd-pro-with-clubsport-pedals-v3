@@ -100,24 +100,25 @@ At the beginning i had the CSL Pedals (and later upgraded it with a load cell br
 
 ### CSP v3 and in game pedal force feedback?
 
-Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week 😢 See also my [Simagic shaker mod](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mountthttpswwwthingiversecomthing7397377). The following table reflects my experiences.
+Hard to find resources which game supports CSP V3 force feedback. If there is FFB it is very week 😢 See also my [Simagic shaker mod](#my-p-hpr-modding---fanatec-clubsport-v3-pedals-block-with-p-hpr-mountthttpswwwthingiversecomthing7397377). FFB support tends to be more common on PC than on consoles. The following table reflects my experiences.
 
 #### Pedal FFB game list
 
 | Game (tested Platform)           | Wheelbase Mode | CS V3 Pedal FFB |
-|:---------------------------------|:--------------:|:---------------:|
-| Assetto Corsa Competitione (PC)  |       🔴       |       ✅        |
-| Assetto Corsa Competitione (PS5) |       🔵       |        -        |
-| Assetto Corsa Competitione (XSX) |       🟢       |        -        |
-| Assetto Corsa Rally (PC)         |       🔴       |       ✅        |
-| Dirt Rally 2.0 (PC)              |      🔴🟡      |        -        |
-| Dirt Rally 2.0 (PS5)             |       🔵       |        -        |
-| EA WRC 23 (PS5)                  |       🔵       |       ✅        |
-| EA WRC 24 (PC)                   |       🔴       |       ✅        |
-| Forza Motorsport 2023 (PC)       |       🔴       |        -        |
-| Forza Motorsport 7 (XSX)         |       🟢       |        -        |
-| Gran Turismo 7 (PS5)             |       🔵       |        -        |
-| WRC Generations (XSX)            |       🟢       |        -        |
+| :------------------------------- | :------------: | :-------------: |
+| Assetto Corsa Competitione (PC)  |      🔴        |       ✅        |
+| Assetto Corsa Competitione (PS5) |      🔵        |        -        |
+| Assetto Corsa Competitione (XSX) |      🟢        |        -        |
+| Assetto Corsa Rally (PC)         |      🔴        |       ✅        |
+| Dirt Rally 2.0 (PC)              |     🔴🟡       |        -        |
+| Dirt Rally 2.0 (PS5)             |      🔵        |        -        |
+| EA WRC 23 (PS5)                  |      🔵        |       ✅        |
+| EA WRC 24 (PC)                   |      🔴        |       ✅        |
+| Forza Motorsport 2023 (PC)       |      🔴        |        -        |
+| Forza Motorsport 7 (XSX)         |      🟢        |        -        |
+| Gran Turismo 7 (PS5)             |      🔵        |        -        |
+| WRC Generations (PC)             |      🔴        |       ✅        |
+| WRC Generations (XSX)            |      🟢        |        -        |
 
 ## Wheelbase modes
 
