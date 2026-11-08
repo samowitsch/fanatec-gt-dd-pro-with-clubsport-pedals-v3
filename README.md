@@ -27,6 +27,9 @@ These are my experiences collected over time beginning from 19.02.2022 with this
       - [P-HPR YT videos](#p-hpr-yt-videos)
       - [P-HPR reactor mounts](#p-hpr-reactor-mounts)
       - [Simagic Control box](#simagic-control-box)
+  - [Others](#others)
+    - [Brook Ras1ution 2 adapter](#brook-ras1ution-2-adapter)
+      - [Links](#links)
 
 <!-- /TOC -->
 
@@ -106,19 +109,19 @@ Hard to find resources which game supports CSP V3 force feedback. If there is FF
 
 | Game (tested Platform)           | Wheelbase Mode | CS V3 Pedal FFB |
 | :------------------------------- | :------------: | :-------------: |
-| Assetto Corsa Competitione (PC)  |      🔴        |       ✅        |
-| Assetto Corsa Competitione (PS5) |      🔵        |        -        |
-| Assetto Corsa Competitione (XSX) |      🟢        |        -        |
-| Assetto Corsa Rally (PC)         |      🔴        |       ✅        |
-| Dirt Rally 2.0 (PC)              |     🔴🟡       |        -        |
-| Dirt Rally 2.0 (PS5)             |      🔵        |        -        |
-| EA WRC 23 (PS5)                  |      🔵        |       ✅        |
-| EA WRC 24 (PC)                   |      🔴        |       ✅        |
-| Forza Motorsport 2023 (PC)       |      🔴        |        -        |
-| Forza Motorsport 7 (XSX)         |      🟢        |        -        |
-| Gran Turismo 7 (PS5)             |      🔵        |        -        |
-| WRC Generations (PC)             |      🔴        |       ✅        |
-| WRC Generations (XSX)            |      🟢        |        -        |
+| Assetto Corsa Competitione (PC)  |      🔴       |       ✅        |
+| Assetto Corsa Competitione (PS5) |      🔵       |        -        |
+| Assetto Corsa Competitione (XSX) |      🟢       |        -        |
+| Assetto Corsa Rally (PC)         |      🔴       |       ✅        |
+| Dirt Rally 2.0 (PC)              |     🔴🟡     |        -        |
+| Dirt Rally 2.0 (PS5)             |      🔵       |        -        |
+| EA WRC 23 (PS5)                  |      🔵       |       ✅        |
+| EA WRC 24 (PC)                   |      🔴       |       ✅        |
+| Forza Motorsport 2023 (PC)       |      🔴       |        -        |
+| Forza Motorsport 7 (XSX)         |      🟢       |        -        |
+| Gran Turismo 7 (PS5)             |      🔵       |        -        |
+| WRC Generations (PC)             |      🔴       |       ✅        |
+| WRC Generations (XSX)            |      🟢       |        -        |
 
 ## Wheelbase modes
 
@@ -176,3 +179,21 @@ View from the side. Here you can see the original Fanatec rumble motors at their
 
 * https://www.thingiverse.com/thing:6476832
 * https://www.printables.com/model/1455864-simagic-pedal-board-holder-bracket-p2000-or-haptic
+
+## Others
+
+### Brook Ras1ution 2 adapter
+
+<img width="200" align="right" src="images/other/adapter/Ras1ution2-kv.png"/>Ever wanna playing PlayStation 3 games with your Fanatec Wheelbase? Than the [Brook Ras1ution 2 Adapter](https://www.brookaccessory.com/products/ras1ution2/index.html) should be the solution for this. I orderes one at Amazon and will test it very soon.
+
+**Listed compatible Fanatec wheel bases are:**
+
+* DD pro (PS4 mode)
+* CSL Elite (Both Xbox One & PS4 versions)
+
+#### Links
+
+* https://www.brookaccessory.com/products/ras1ution2/index.html
+* https://www.amazon.de/dp/B09W9W79CW
+* https://www.youtube.com/watch?v=_aMfJ5xUNzA
+* https://www.youtube.com/watch?v=asHJmV9Obnk
